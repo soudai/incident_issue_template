@@ -5,9 +5,9 @@ This is a template for an issue in an emergency
 　ちょっと使い勝手を試してみたいって場合はissueを作ってもOKです。
 ただしCloseもやってください。
 
-# オススメのtemplateがあるのだけど
+# オススメのtemplateがある
 　templateのmdのプルリクエストをお待ちしてます。
 また改善の提案issueやプルリクエストは大歓迎！！
 
-# issueの作り方やissueのコメントなどで面白い方法があるんだけど
-PRでもいいし、issueを実際に作ってサンプルなどを作ってもOKです
+# issueの作り方やissueのコメントなどで面白い方法がある
+　PRでもいいし、issueを実際に作ってサンプルなどを作ってもOKです
